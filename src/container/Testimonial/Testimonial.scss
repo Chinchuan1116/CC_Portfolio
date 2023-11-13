@@ -102,6 +102,7 @@
   width: 80%;
   flex-wrap: wrap;
   margin-top: 2rem;
+  justify-content: space-around!important;
 
   div{
     width: 150px;
@@ -111,6 +112,7 @@
       width: 100%;
       height: auto;
       object-fit: cover;
+      scale: 2;
       filter: grayscale(1);
       user-select: none;
     }

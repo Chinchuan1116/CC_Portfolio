@@ -87,15 +87,16 @@
       padding: 0.95rem;
       border: none;
       border-radius: 7px;
-      background-color: var(--primary-color);
-
+      background-color: var(--primary-color);  
       font-family: var(--font-base);
       color: var(--secondary-color);
       outline: none;
     }
 
     textarea {
-      height: 170px;
+      resize: vertical; 
+      max-height: 300px; 
+      min-height: 170px;
     }
 
     &:hover {

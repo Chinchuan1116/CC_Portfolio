@@ -16,7 +16,7 @@ You may also see any lint errors in the console.
 
 ### `sanity start`
 
-Open second terminal, cd into backend_sanity folder and run sanity start to open sanity desk.\
+Open second terminal, cd into backend_sanity folder and run sanity start to open [http://localhost:3333/desk]sanity desk.
 
 ### `npm test`
 
